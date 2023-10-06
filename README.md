@@ -2,22 +2,15 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The page of this challenge is to generate a password with the criteria provided. First prompt has fill box for possible password. If password does not include conditions user will be alerted of what is needed. Password generates possible password with all criteria met
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Application gennerates password if password provided does not meet criteria.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
     ![alt text](assets/images/screenshot.png)
     ```
+https://roro21007.github.io/Pass-Gen/
 
 ## License
 
