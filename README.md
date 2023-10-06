@@ -8,7 +8,7 @@ The page of this challenge is to generate a password with the criteria provided.
 
 Application gennerates password if password provided does not meet criteria.
 
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/screenshotPW.png)
     ```
 https://roro21007.github.io/Pass-Gen/
 
